@@ -1,0 +1,6 @@
+# MediHistory AI - Hackathon Deliverables Specification
+# Android Native Runtime: Kotlin 2.2.10, Jetpack Compose M3, Room 2.7.0, Gemini 3.8 Flash
+# Web/Python Reference stack (if remixed to Streamlit):
+# streamlit>=1.38.0
+# google-genai>=0.1.0
+# pydantic>=2.0.0

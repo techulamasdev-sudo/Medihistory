@@ -1,0 +1,6 @@
+{
+  "name": "MediHistory AI",
+  "description": "Every medical detail remembered, every doctor better informed. AI medical timeline & doctor-ready summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
